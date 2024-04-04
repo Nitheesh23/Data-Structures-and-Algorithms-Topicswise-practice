@@ -1,0 +1,13 @@
+Q10. Time Complexity 10
+
+
+What is the Time Complexity of following snippet ?
+
+int count = 0;
+while(N){
+count++;
+N/=3;
+}
+
+
+SOLUTION ---> O(log(N)) {Base 3}
