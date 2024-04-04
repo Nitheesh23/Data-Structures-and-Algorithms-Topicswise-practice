@@ -1,0 +1,16 @@
+Q7. Find Time Complexity - 7
+
+What is the time complexity of the following code snippet
+
+for(int i = 1 ; i <= n ; i++){
+
+for(int j = 1 ; j <= 3^i ; j++){
+
+print(i + j);
+
+}
+
+}
+
+
+SOLUTION ---> O(3^n)
